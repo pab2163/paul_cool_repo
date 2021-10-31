@@ -1,3 +1,4 @@
+# Author: Paul A. Bloom
 # dictionary inside a dictionary
 # lists inside a dictionary
 # dictionaries in a list
